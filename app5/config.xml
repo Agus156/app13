@@ -41,6 +41,6 @@ Agustin Uriel Ramos Zuñiga
 <icon src="res/android/mdpi.png"/>
 
 <!--splash-->
- <splash src="res/android/mdpi.png" />
+ <splash src="res/android/splash.png"/>
 
 </widget>
